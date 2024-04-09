@@ -1,0 +1,3 @@
+# Compiled Pythone files
+*.pyc
+_pycache_/
